@@ -1,0 +1,1178 @@
+aur/activemq-cpp-library 3.4.0-1
+    CMS is a JMS-like API for C++ for interfacing with Message Brokers
+    such as Apache ActiveMQ.
+
+aur/adium-theme-ubuntu 0.3.2-2
+    Adium message style for Ubuntu
+
+aur/advancescan 1.14-1
+    A command line rom manager for MAME, MESS, AdvanceMAME, AdvanceMESS
+    and Raine
+
+aur/android-google-cloud-messaging r03-1
+    Google Cloud Messaging for Android Library
+
+aur/anubis 4.1.1-1
+    An SMTP message submission daemon.
+
+aur/apache-activemq 5.5.1-1
+    Popular and powerful open source messaging and Integration Patterns
+    provider
+
+aur/apollo 1.4-1
+    A faster, more reliable, easier to maintain messaging broker built
+    from ActiveMQ
+
+aur/arch-cookie 1.0-1
+    A ramdom message generator for /etc/issue
+
+aur/ayttm 0.6.3-1
+    Unified instant messenger client
+
+aur/ayttm-git 20100515-1
+    Unified instant messenger client
+
+aur/bitlbee-bzr 916-1
+    Brings instant messaging (XMPP, MSN, Yahoo!, AIM, ICQ, Twitter) to IRC
+
+aur/bitlbee-openssl 3.0.4-1
+    Brings instant messaging (XMPP, MSN, Yahoo!, AIM, ICQ, Twitter) to IRC
+    - linked against OpenSSL instead of GNUTLS
+
+aur/bitlbee-steam-git 20120930-1
+    A bitlbee plugin for the steam message protocol
+
+aur/blacs-mpi 1.1-3
+    BLACS (Basic Linear Algebra Communication Subprograms) project is a
+    linear algebra oriented message passing interface.
+
+aur/brosix 3.x.x-1
+    A secure softphone, instant messaging and collaboration tool (Skype
+    work-alike)
+
+aur/bukkit-healthy 1.0-2
+    Hacks a healthbar into chatmessages
+
+aur/busybee 0.1.0-1
+    High performance messaging layer
+
+aur/carrot 0.10.5-1
+    An AMQP messaging queue framework for Python.
+
+aur/carrot-doc 0.10.1-1
+    Documentation for carrot, an AMQP messaging queue framework for
+    Python.
+
+aur/chicken-internet-message 4.2-4
+    Chicken Scheme Egg: Parser combinators for Internet Message Format
+    (RFC 5322).
+
+aur/chicken-message-digest 2.3.1-4
+    Chicken Scheme Egg: Message Digest Support
+
+aur/chicken-mpi 1.7-4
+    Chicken Scheme Egg: Message-passing Interface (MPI)
+
+aur/chicken-ripemd 1.0.0-4
+    Chicken Scheme Egg: RIPE Message Digest
+
+aur/chicken-tiger-hash 2.0.2-4
+    Chicken Scheme Egg: Tiger/192 Message Digest
+
+aur/climm 0.7.1-1
+    climm (previously mICQ) is a free text-based instant messaging client
+    that runs on a wide variety of platforms
+
+aur/climm-svn 2591-2
+    SVN-version of free text-based instant messaging client with xmpp
+    support
+
+aur/conexus 0.9.1-1
+    A generalized C++ I/O library for IPv4 and IPv6 sockets, serial/TTY,
+    kernel message queues, pipes, and files
+
+aur/craftbukkit-plugin-countryloginmessage 1.2-1
+    Alternate login message for Bukkit
+
+aur/dbus-cli-svn 8-1
+    dbus-cli is a tool to send messages to existing DBus services. It is
+    like KDE's dcop (but for DBus) or dbus-send (but much more user-
+    friendly). It is extremely useful for listing dbus services, objects,
+    methods.
+
+aur/dbus-core-systemd-user-sessions 1.6.4-2
+    Freedesktop.org message bus system - includes fix for malformed
+    DBUS_SESSION_BUS_ADDRESS
+
+aur/dbus-git 20120630-1
+    Freedesktop.org message bus system
+
+aur/dbus-inspector 0.2.1-2
+    DBus-Inspector is a development tool to show the contents of the DBus
+    message bus.
+
+aur/dbus-rdynamic 1.2.4.4permissive-1
+    message bus system, compilled with rdynamic support
+
+aur/dcled 2.0-1
+    Dream Cheeky USB Message Board utility
+
+aur/django-flash 1.8.0-1
+    A simple Django extension that provides support for Rails-like flash
+    messages.
+
+aur/django-messages 0.4.4-1
+    user-to-user messaging system for Django
+
+aur/emacs-cite 1.33-1
+    A basic message citing engine
+
+aur/emailrelay 1.8.2-1
+    E-MailRelay is a simple SMTP proxy and relay MTA, written in C++, for
+    Linux and Windows. As a proxy all messages can be passed through a
+    user-defined program, such as a spam-filter, which can drop,
+    readdress, or edit messages as they pass through.
+
+aur/emesene-dillo 0.2a-1
+    The name 'Dillo' is the Italian translation of 'say it'... because
+    this plugin reads the new messages.
+
+aur/emesene-supported-plugins 20110809-2
+    Contains the officially supported plugins (from git) for the emesene
+    messenger client
+
+aur/emesene-supported-themes 20110828-1
+    Contains the officially supported themes (from git) for the emesene
+    messenger client
+
+aur/emesene-svn 2467-1
+    An OS independent MSN Messenger client writed in python and GTK
+
+aur/emesene2-git 20120620-1
+    An OS independent MSN Messenger client writed in python and GTK
+
+aur/empathy-theme-adium-matte 2.2-1
+    Adium Matte message style for empathy
+
+aur/empathy-theme-candybars 1.2-1
+    Candybars message style for empathy
+
+aur/empathy-theme-ubuntu-adium-bzr 12-1
+    Adium message style for Ubuntu
+
+aur/enigmail 1.4.2-2
+    Thunderbird extension that enables sending and receiving signed and
+    encrypted e-mail messages
+
+aur/eva 0.4.1-1
+    QQ protocol instant messaging client for KDE.
+
+aur/exim-mysql 4.77-1
+    A Message Transfer Agent with MySQL and sqlite3 support
+
+aur/exim-postgres 4.69-1
+    A Message Transfer Agent(lookup PostgreSQL)
+
+aur/extract_url 1.5.4-2
+    A Perl script that extracts URLs from correctly-encoded MIME email
+    messages
+
+aur/fbrcapi 0.3-1
+    fbrcapi (Fritz!Box Remote CAPI over TCP) is a kernel module, for
+    Fritz!Box Fon Routers to transport CAPI messages over TCP.
+
+aur/fist 4.0-1
+    Emphatic message generator
+
+aur/freenet-fms 0.3.69-1
+    Freenet Messaging System
+
+aur/frost 20110305-1
+    A Freenet 0.7 client that provides newsgroup-like messaging, private
+    encrypted messages, file upload and download functionality and a file
+    sharing system.
+
+aur/g15message 1.0.0-3
+    A simple message/alert tool for G15Daemon.
+
+aur/gajim-hg 14071-1
+    Jabber/XMPP instant messenger client written in PyGTK
+
+aur/gajim-otr-hg 11148-2
+    Jabber instant messenger with OTR encryption support
+
+aur/galaxium 0.7.4.1-5
+    A multi-protocol instant messenger application designed for the GNOME
+    desktop
+
+aur/galaxium-emoticons-wlmicons 1.0-1
+    All of the Windows Live Messenger emoticons for Galaxium in high
+    quality, including the Bunny and the I'm icons.
+
+aur/galaxium-svn 1634-1
+    A multi-protocol instant messenger application designed for the GNOME
+    desktop.
+
+aur/galicesms 1.62-1
+    GTK2 GUI interface for sending SMS messages via Rosso Alice (Italian
+    ADSL service)
+
+aur/gausssum 2.2.5-3
+    A Program for getting results of Gaussian and GAMESS
+
+aur/gensmspdu 0.1-2
+    Automatic SMS message generator
+
+aur/geoclue-git 20111001-1
+    A modular geoinformation service built on top of the D-Bus messaging
+    system.
+
+aur/gnome-shell-extension-gajim-git 20120429-1
+    Integration with Gajim, a Jabber/XMPP instant messaging client.
+
+aur/gnome-shell-extension-gnote 3.0.2-0.20110705.1
+    Move Gnote from Message Tray to Status Tray
+
+aur/gnome-shell-extension-remove-bottom-bar 3.4-1
+    Removes the Message tray (bottom bar). I recommend to use with gnome-
+    shell-gnome2-notifications extention by rcmorano.
+
+aur/goober 3.0.0-1
+    Goober Instant Messenger
+
+aur/google-refine 2.5_r2407-1
+    A power tool for working with messy data
+
+aur/grib_api 1.9.16-4
+    A program interface for encoding and decoding GRIB messages
+
+aur/gstd-git 20120120-5
+    GStreamer Daemon (gstd) is a GStreamer framework for controlling audio
+    and video streaming using D-Bus messages
+
+aur/gstlfilt 20080302-1
+    An STL Error Message Decryptor for C++
+
+aur/gtkhash 0.6.0-2
+    A GTK+ utility for computing message digests or checksums.
+
+aur/gtmess 0.97-1
+    A console MSN Messenger client for Linux and other unix systems that
+    conform to the POSIX standard.
+
+aur/gtmess-beta 0.96-2
+    A console MSN Messenger client for Linux and other unix systems that
+    conform to the POSIX standard. BETA version
+
+aur/gtmess-sounds 0.97-1
+    Sounds for gtmess.
+
+aur/gxconsole 0.3-1
+    A GTK-based monitor for system console messages
+
+aur/haskell-hermes 0.0.4-3
+    Message-based middleware layer
+
+aur/haskell-hsemail 1.7.1-18
+    Internet Message Parsers
+
+aur/haskell-hsemail-ns 1.3.2-4
+    Internet Message Parsers
+
+aur/haskell-irc 0.4.4.2-1
+    A small library for parsing IRC messages.
+
+aur/haskell-midi 0.1.6-1
+    Handling of MIDI messages and files
+
+aur/haskell-mime-mail 0.3.0-2
+    Compose MIME email messages.
+
+aur/haskell-msgpack 0.4.0.1-3
+    A Haskell binding to MessagePack
+
+aur/haskell-msgpack-rpc 0.4.0-3
+    A MessagePack-RPC Implementation
+
+aur/haskell-sha 1.5.1-1
+    Implementations of the SHA suite of message digest functions
+
+aur/hmaccalc 0.9.12-1
+    HMAC (hash-based message authentication code) calculator
+
+aur/hookbox-git 20110402-1
+    Hookbox is a Comet server and message queue that tightly integrates
+    with your existing web application via web hooks and a REST interface.
+
+aur/httpsqs 1.7-1
+    HTTP Simple Queue Service, message queue based on HTTP GET/POST
+    protocol.
+
+aur/husky-smapi-cvs 20120129-2
+    Husky message API for accessing *.MSG, Squish and Jam message base
+    files
+
+aur/i2p-messenger 0.2.22-1
+    Qt-based messenger for I2P network
+
+aur/imapquickcheck 1.3-1
+    A lightweight systray docking app that checks your IMAP mailboxes for
+    unread messages.
+
+aur/imsniff 0.04-1
+    pcap-based instant messaging sniffer. It captures the IM traffic in
+    the network and is able to log conversations, contact lists, profile
+    information, incoming email notifications, other MSN events, etc.
+
+aur/indicator-messages 0.6.0-1
+    A place on the user's desktop that collects messages that need a
+    response
+
+aur/indicator-messages-bzr 212-1
+    A place on the user's desktop that collects messages that need a
+    response. (Canonical Ayatana Project)
+
+aur/indicator-messages-gtk2 0.5.0-1
+    A place on the user's desktop that collects messages that need a
+    response (GTK+ 2 library for Xfce/LXDE)
+
+aur/instantbird 1.2-2
+    Instant messenger using libpurple and xulrunner
+
+aur/ipc 3.9.1-2
+    Flexible, efficient, network-based inter-process message passing
+    library
+
+aur/iptux 0.5.3-1
+    Lan communication software, compatiable with IP Messenger.
+
+aur/iptux-svn 80-1
+    Lan communication software, compatiable with IP Messenger.
+
+aur/irssi-otr 0.3-3
+    Off-the-Record Messaging (OTR) for the Irssi IRC client
+
+aur/irssi-otr-git 20090814-1
+    Off-the-Record Messaging (OTR) for the Irssi IRC client.
+
+aur/irssi-script-hilightwin 0.02-2
+    Print hilighted messages to window named hilight
+
+aur/jabwebhist 200801-3
+    jabber message history (XEP-0136) browser
+
+aur/jitsi 1.0.3967-3
+    An audio/video SIP VoIP phone and instant messenger written in Java
+    (formerly SIP-Communicator)
+
+aur/jitsi-nightly 1.1-2
+    An audio/video SIP VoIP phone and instant messenger written in Java
+    (formerly SIP-Communicator)
+
+aur/jmess 1.0.1-1
+    A utility to save your jack audio connections.
+
+aur/jmess-svn 40-1
+     A utility to save your audio connections (mess)
+
+aur/jsms 3.11-1
+    A Java-based application for sending SMS messages through Brazilian
+    mobile phone operators
+
+aur/kdenetwork-kopete-dockmanager 4.8.4-1
+    Instant Messenger (patched for dockmanager)
+
+aur/kipmsg 0.1.8-1
+    This is a pop up style LAN Messenger for KDE
+
+aur/klinpopup 0.3.4-4
+    Program for sending and receiving Windows popup messages in Linux
+
+aur/kmess-git 20110203-1
+    A full-featured MSN Client for KDE - GIT development version
+
+aur/kmess-stable-git 20110203-1
+    A full-featured MSN Client for KDE - GIT stable branch version
+
+aur/kmess-telepathy-git 20120409-1
+    A full-featured IM Client - GIT development version using telepathy
+
+aur/kmesstestserver-git 20110115-1
+    A tool to debug the MSN protocol \u2013 by emulating a full WLM-
+    compatible server.
+
+aur/kopete-antispam 0.5-2
+    Kopete Antispam Plugin helps to protect kopete messenger from various
+    spammers by using simple answer/question scheme
+
+aur/kopete-cryptography 1.3.0-5
+    Kopete plugin which encrypts and signs messages using OpenPGP
+
+aur/kopete-indicator 0.2.1-1
+    A plugin for Kopete which makes it possible to show activity in the
+    Message Indicator
+
+aur/kopete-plugin-thinklight 0.50-3
+    This kopete plugin lets a Thinkpad's light flash on every incoming
+    message
+
+aur/kopete-svn 1217717-1
+    Instant Messenger
+
+aur/lib32-zeromq 2.2.0-1
+    Fast messaging system built on sockets, C and C++ bindings. aka 0MQ,
+    ZMQ. (32-bit)
+
+aur/lib32-zeromq-dev 3.1.0-1
+    Fast messaging system built on sockets, the 3.1 beta version. aka 0MQ,
+    ZMQ. (32-bit)
+
+aur/lib32-zeromq-git 20120528-1
+    Fast messaging system built on sockets. aka 0MQ, ZMQ. (32-bit)
+
+aur/libbufr 10.1.0-1
+    NCEP library to encode or decode BUFR messages
+
+aur/libdbusada 0.1-1
+    Ada binding to the D-Bus message bus
+
+aur/libebt 1.3.0-1
+    The libebt library provides a clean way of getting human-readable
+    backtrace messages in C++.
+
+aur/libfixbuf 0.4.1-1
+    IPFIX Message Format Implementation
+
+aur/libgmail-modified 0.1.8-3
+    A modified version of libgmail that supports spam report and message
+    archiving features
+
+aur/libipmsg 0.1.7-1
+    bipmsg - IP Messenger library for UNIX
+
+aur/liblazy 0.2-1
+    Simple and easy to use library that provides convenient functions for
+    sending messages over the D-Bus daemon
+
+aur/libndef 1.1.3-1
+    C++ library for use in reading and writing messages based on \\\"NDEF
+    (NFC Data Exchange Format) Specification\\\"
+
+aur/libpseudo 1.2.0-1
+    Generic library providing simple thread-safe messaging between threads
+
+aur/libpurple-core-answerscripts-git 20100609-1
+    Framework for hooking scripts to respond received messages for various
+    libpurple clients such as pidgin or finch
+
+aur/libvmime 0.9.1-1
+    A C++ class library for working with MIME messages
+
+aur/libvmime-git 0.9.2-1
+    A powerful C++ class library for working with RFC-822 and MIME
+    messages.
+
+aur/libvmime-svn 540-2
+    A C++ class library for working with MIME messages
+
+aur/libx32-dbus-core 1.6.4-1.1
+    Freedesktop.org message bus system (x32 ABI)
+
+aur/libxs 1.2.0-1
+    Fast messaging system built on sockets.  Fork of ZeroMQ, Aka
+    Crossroads IO.
+
+aur/libyahoo2 1.0.1-1
+    libyahoo2 is a C library interface to the new Yahoo! Messenger
+    protocol. It supports major features of the protocol.
+
+aur/licq-osd 1.3.2.2-1
+    licq-osd is a licq plugin which provides an On Screen Display on new
+    messages
+
+aur/liferea-indicator 1.8.0-1
+    A desktop news aggregator for online news feeds and weblogs with
+    Messages Indicator support
+
+aur/linuxqq 1.0.2-1
+    Instant messaging software from Tencent Inc.
+
+aur/lotus-notes-activities 8.5-1
+    Lotus Notes messaging and collaboration suite - Activities component
+
+aur/lotus-notes-base 8.5-1
+    Lotus Notes messaging and collaboration suite
+
+aur/lotus-notes-cae 8.5-1
+    Lotus Notes messaging and collaboration suite - Composite Application
+    Editor component
+
+aur/lotus-notes-sametime 8.5-1
+    Lotus Notes messaging and collaboration suite - Sametime component
+
+aur/lsdbus 0.1-2
+    A message bus scanner.
+
+aur/lumaqq 2006M2-2
+    QQ protocol instant messaging client
+
+aur/mamepgui 1.5.0-3
+    Frontend for SDLMAME/SDLMESS based on MAME Plus!
+
+aur/mamepgui-svn 4961-1
+    Frontend for SDLMAME/SDLMESS based on MAME Plus!
+
+aur/mcabber-module-beep-git 20091109-1
+    Example module from HOWTO, but I really use it :) It just beeps on all
+    incoming messages, including non-directed to you MUC messages. Adds
+    '/beep' command, that enables and disables beeping.
+
+aur/mcabber-module-notifymsg-git 20101219-1
+    A small module that notificates you(via LogWindow) when a new message
+    recieved
+
+aur/mcontrol 0.1.05-1
+    ALSA MIDI sequencer client and brings the possibility to assign up to
+    twelve simultaneous MIDI control messages for each controller in your
+    MIDI keyboard (Modulation Wheel, Breath Controller, Foot Controller,
+    Pitch Bend and After Touch).
+
+aur/md4sum 0.02.03-1
+    Generator and checker of MD4 message digests
+
+aur/mdc 1.0.4.3-1
+    MDC Internet Messenger
+
+aur/mew 6.3-1
+    Mew is a user interface for text messages, multimedia messages (MIME),
+    news articles and security functionality including PGP, S/MIME, SSH,
+    and SSL. Also, Mew can work with the recent search services.
+
+aur/mime-construct 1.11-4
+    Construct and mail MIME messages from the command line.
+
+aur/mingw-w64-zeromq 2.2.0-1
+    Fast messaging system built on sockets, C and C++ bindings. aka 0MQ,
+    ZMQ. (mingw-w64)
+
+aur/mit-zephyr 3.0.1-1
+    An enterprise-scale, distributed real-time messaging and notification
+    system, configured for use with MIT's network
+
+aur/morbid 0.8.7.3-2
+    A Twisted-based publish/subscribe messaging server that uses the STOMP
+    protocol
+
+aur/mpack 1.6-2
+    Utilities for encoding and decoding binaries files in MIME format mail
+    messages
+
+aur/mpich2 1.5-1
+    An improved implementation of the Message Passing Interface.
+
+aur/mpich2-gcc44 1.4-4
+    An improved implementation of the Message Passing Interface.
+
+aur/mscgen 0.20-2
+    Message Sequence Chart Generator
+
+aur/msgpack-git 20100624-1
+    MessagePack fast streaming serialization libraries for C and C++
+
+aur/msn-proxy 0.7-1
+    A lightweight transparent proxy for the msn messenger clients and
+    allow you to control and monitor the use of messenger on your network.
+
+aur/msn-proxy-mysql 0.6.3-1
+    A lightweight transparent proxy used to control/monitor the use of msn
+    messenger clients. Using mysql.
+
+aur/msnsniff 1.1-4
+    A command line tool for intercepting conversations over the MSN
+    Messenger protocol
+
+aur/mutt-sidebar-trash 1.5.21-2
+    Small but very powerful text-based mail client with sidebar, trash
+    folder and purge message patches.
+
+aur/muttjump 1.5-1
+    makes mail indexers (like mairix, mu, nmzmail, or notmuch) together
+    with mutt more useful by jumping from virtual maildir search results
+    to actual message.
+
+aur/mx610-notification 0.5-2
+    Informs for new unread messages with your mouse's IM-led and raises
+    the conversation window with a press of the IM-button.
+
+aur/nateon 1.0.1.275-1
+    Nateon messenger for Linux
+
+aur/newsdeliver 1.4.1-3
+    A customizable nntp to email gateway intended for people who want to
+    get notified of a new message
+
+aur/newstap 1.0.0-2
+    Retrieve news from NNTP and deliver them to one or more destinations
+    as regular electronic mail messages.
+
+aur/ocaml-stomp-git 1.0-1
+    Text Orientated Messaging Protocol client implementation in OCaml.
+
+aur/okcupid-pidgin 2.05-2
+    This plugin gets to be the only plugin ever made that will connect
+    OkCupid's online messenger to the Pidgin Instant Messaging program
+
+aur/oneteam 0.999.990-1
+    Entreprise multi-network instant messaging client
+
+aur/openc6 0.9.9-2
+    A free instant messenger client which implements the C6 protocol
+
+aur/opencdk 0.6.6-3
+    The Open Crypto Development Kit provides basic parts of the OpenPGP
+    message format
+
+aur/openmama 1.1-3
+    High performance Middleware Agnostic Messaging API that provides a
+    consistent abstraction layer over a variety of message oriented
+    middlewares.
+
+aur/openmpi-14 1.4.3-2
+    High performance message passing library (MPI) - Version 1.4 (Stable)
+
+aur/openmpi-slurm 1.6.2-1
+    High performance message passing library (MPI) - compiled for slurm
+
+aur/opensrf 2.0.0-4
+    A message routing network that offers scalability and failover
+    support.
+
+aur/opensrf-git 20110626-1
+    A message routing network that offers scalability and failover
+    support.
+
+aur/paros 3.2.13-2
+    Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities.
+    Supports editing/viewing HTTP messages on-the-fly, spiders, client
+    certificates, proxy-chaining, intelligent scanning for XSS and SQLi,
+    etc.
+
+aur/pebrot 0.8.9-4
+    Pebrot is a text MSN messenger client implemented with Python.
+
+aur/perl-anymq 0.34-1
+    Non-blocking message queue system based on AnyEvent
+
+aur/perl-archlinux-term 0.03-1
+    Print messages to the terminal in Archlinux style
+
+aur/perl-data-messagepack 0.41-1
+    MessagePack serialising/deserialising
+
+aur/perl-email-delete 2.001-1
+    Delete Messages from Folders
+
+aur/perl-email-folder 0.855-1
+    Perl module to read all messages from a folder as Email::Simple
+    objects
+
+aur/perl-email-outlook-message 0.910-1
+    Perl module to read Outlook .msg files
+
+aur/perl-email-queue 0.01-1
+    schedule email messages to be sent one by one at a later time.
+
+aur/perl-html-quoted 0.03-3
+    Extract structure of quoted HTML mail message
+
+aur/perl-ipc-pubsub 0.29-1
+    Perl module providing a simple API for publishing messages to channels
+    and for subscribing to them
+
+aur/perl-ipc-sysv 2.03-3
+    System V shared memory, semaphores, messages
+
+aur/perl-log-dispatch 2.29-3
+    Dispatches messages to one or more outputs
+
+aur/perl-log-handler 0.75-1
+    Log messages to several outputs.
+
+aur/perl-log-syslog-fast 0.55-1
+    Perl extension for sending syslog messages over TCP, UDP,
+
+aur/perl-mail-mbox-messageparser 1.5000-1
+    A fast and simple mbox folder reader
+
+aur/perl-md5 2.03-1
+    MD5 - Perl interface to the MD5 Message-Digest Algorithm
+
+aur/perl-parse-errorstring-perl 0.15-1
+    Parse error messages from the perl interprer
+
+aur/perl-role-hasmessage 0.005-1
+    a thing with a message method
+
+aur/perl-rpc-xml 0.77-1
+    A set of classes for core data, message and XML handling
+
+aur/perl-sms-send 1.06-1
+    Driver-based API for sending SMS messages
+
+aur/perl-text-emoticon-msn 0.04-1
+    Emoticon filter of MSN Messenger
+
+aur/perl-text-emoticon-yahoo 0.02-1
+    Emoticon filter of Yahoo! Messenger
+
+aur/perl-text-quoted 2.06-1
+    Extract the structure of a quoted mail message
+
+aur/perl-xml-rss-parser 4.0-6
+    RPC::XML - A set of classes for core data, message and XML handling
+
+aur/pesterchum-git 20111205-1
+    Instant messaging client copying the look and feel of clients from
+    Andrew Hussie's webcomic Homestuck
+
+aur/phonetooth 0.5.1-5
+    Send text messages with and files to a mobile phone through a
+    bluetooth connection.
+
+aur/php-amqp 1.0.3-1
+    PHP extension compatible with AMQP 0-9-1 message brokers
+
+aur/php-mailparse 2.1.5-1
+    Extension for parsing and working with email messages (RFC822 and
+    RFC2045)
+
+aur/pica-pica-client 0.5.2-1
+    Pica Pica is a distributed instant messaging software that employs
+    strong cryptography for communication protection
+
+aur/pica-pica-node 0.5.2-5
+    Pica Pica is a distributed instant messaging software that employs
+    strong cryptography for communication protection
+
+aur/pidgin-blinklight 0.11.1-2
+    This plugin for Pidgin will blink your ThinkPad's ThinkLight or Asus
+    light when you get new messages
+
+aur/pidgin-facebookchat-svn 720-1
+    Facebook chat plugin for Pidgin and libpurple messengers.
+
+aur/pidgin-gnome 2.7.1-1
+    Multi-protocol instant messaging client
+
+aur/pidgin-indicator 0.14-3
+    Pidgin plugin that enables popups when someone logs in or messages you
+
+aur/pidgin-invisible 2.6.6-2
+    Multi-protocol instant messaging client and libpurple with gtalk
+    invisible patch
+
+aur/pidgin-keysperminute 0.2-1
+    Counts the keys per minute while you are typing a message and displays
+    it
+
+aur/pidgin-libnotify-privacy 0.14-1
+    pidgin plugin that enables popups when someone logs in or messages
+    you(with privacy).
+
+aur/pidgin-mpris 0.2.6-1
+    This plugin will replace %now-playing in your status message with
+    metadata from the currently playing song in a MPRIS compatible media
+    player .
+
+aur/pidgin-osd 0.1.0-1
+    pidgin-osd is an application to print events on the X root screen on
+    receiving incoming messages from pidgin.
+
+aur/pidgin-pbar 0.2-1
+    A Pidgin plugin that adds a toolbar to the buddy list to quickly
+    update nickname, personal message, icon, status, and mood.
+
+aur/pidgin-personalbar 104-1
+    Allows to set a name and a personal message from your buddy list
+
+aur/pidgin-quote-text 0.9.3-1
+    Quote selected message into the entry area
+
+aur/pidgin-rhythmbox 2.0-1
+    A plugin that will automatically update your Pidgin user info and
+    status message with the currently playing music in Rhythmbox
+
+aur/pidgin-webkit 69-1
+    WebKit-based message styles for Pidgin, similar to Adium
+
+aur/pidgin4kopete 1-1
+    Pidgin emotions for Kmess/kopete
+
+aur/pidgintex 1.1.1-1
+    A plugin to render LaTeX expressions in messages
+
+aur/pipe2imap-git 20120529-1
+    Appends a message from stdin to an IMAP mailbox.
+
+aur/plasma-widget-message-indicator 0.5.8-2
+    A Plasma widget which displays messages from message-indicator enabled
+    applications
+
+aur/psad 2.1.7-2
+    A collection of three lightweight system daemons (two main daemons and
+    one helper daemon) that run on Linux machines and analyze iptables log
+    messages to detect port scans and other suspicious traffic
+
+aur/pure-sockets 0.6-1
+    A Pure interface to the Berkeley socket functions. Provides most of
+    the core functionality, so you can create sockets for both stream and
+    datagram based protocols and use these to transmit messages. Unix-
+    style file sockets are also available if the host s
+
+aur/purple-otr 20120102-2
+    Off-the-Record Messaging plugin for Pidgin and Finch.
+
+aur/pygpgme 0.2-1
+    A Python module for working with OpenPGP messages
+
+aur/python-amqplib 0.6.1-1
+    Python client for the Advanced Message Queuing Procotol (AMQP)
+
+aur/python-carrot 0.10.5-1
+    AMQP Messaging Framwork for Python
+
+aur/python-dispatcher 2.0.1-1
+    Provides loosely-coupled message passing between Python objects
+
+aur/python-errorhandler 1.1.0-1
+    A logging framework handler that tracks when messages above a certain
+    level have been logged.
+
+aur/python-flask-mail 0.6.1-1
+    The Flask-Mail extension provides a simple interface to set up SMTP
+    with your Flask application and to send messages from your views and
+    scripts.
+
+aur/python-kombu 2.1.1-1
+    AMQP Messaging Framework for Python
+
+aur/python-msgpack 0.2.0-1
+    Python module for MessagePack serialization/deserialization library
+
+aur/python-msgpack-git 20100624-1
+    Python module for MessagePack serialization/deserialization library
+
+aur/python-msnp 0.4.1-1
+    A Python MSN messenger protocol library
+
+aur/python-posix_ipc 0.9.3-1
+    Gives access to POSIX inter-process semaphores, shared memory and
+    message queues.
+
+aur/python-pydispatcher 2.0.3-1
+    Provides loosely-coupled message passing between Python objects
+    (signal senders and receivers).
+
+aur/python-pypar 2.1.4_94-1
+    Pypar is an efficient but easy-to-use module that allows programs
+    written in Python to run in parallel on multiple processors and
+    communicate using message passing.
+
+aur/python2-amqplib 1.0.2-3
+    Python client for the Advanced Message Queuing Procotol (AMQP). Uses
+    Python2.
+
+aur/python2-carrot 0.10.5-1
+    AMQP Messaging Framwork for Python
+
+aur/python2-errorhandler 1.1.1-1
+    A logging framework handler that tracks when messages above a certain
+    level have been logged.
+
+aur/python2-flask-mail 0.6.1-1
+    A Flask extension for sending email messages.
+
+aur/python2-kombu 2.4.7-1
+    AMQP Messaging Framework for Python 2.x
+
+aur/python2-msgpack 0.2.0-2
+    Python module for MessagePack serialization/deserialization library
+
+aur/python2-msnlib 3.8-1
+    A Python MSN messenger protocol library and client
+
+aur/python2-pydispatcher 2.0.1-1
+    provides loosely-coupled message passing between Python objects
+    (signal senders and receivers).
+
+aur/python2-zope-i18nmessageid 3.6.1-1
+    Message Identifiers for internationalization
+
+aur/pyzor 0.5.0-2
+    Detect and block spam using identifying digests of messages.
+
+aur/qc-usb-messenger 1.8-15
+    QuickCam Messenger & Communicate driver for Linux
+
+aur/qipmsg 1.0.0-2
+    is an IP Messenger implementaion for linux.
+
+aur/quickpurple 0.3-1
+    Quickpurple is Pidgin plugin which provides quick buddy lookup, status
+    switch, unread messages list and access to some Pidgin dialogs.
+
+aur/qutim-0.2-git 20100105-1
+    Multiplatform instant messenger - Core only. GIT version
+
+aur/qutim-0.2-tls-git 20100827-1
+    Multiplatform instant messenger - Core only. GIT version
+
+aur/qutim-0.2.80.00-meta-git 20110519-8
+    Multiplatform instant messenger. (0.3 beta version) GIT repository.
+    Unstable version for developers.
+
+aur/qutim-0.2_ru-git 20110110-1
+    Multiplatform instant messenger - Core, icq, jabber, Russian language
+    and some plugins. GIT version
+
+aur/qutim-0.3-git 20110609-1
+    Multiplatform instant messenger. GIT repository. Unstable. /opt
+    installation
+
+aur/qutim-0.3-meta-git 20110201-1
+    Multiplatform instant messenger. ALPHA DEV Version
+
+aur/qutim-0.3-set 20111231-1
+    Multiplatform instant messenger with icq protocol and selected
+    plugins. Unstable version.
+
+aur/qutim-git 20120726-7
+    Multiplatform instant messenger. GIT repository. Unstable version for
+    developers.
+
+aur/qutim-plugin-otr-git 20101116-1
+    Off-the-Record Messaging (OTR) for Qutim, git Version
+
+aur/qutim-protocol-msn-svn 5-1
+    Adds support for the Windows Live Messenger (also knows as MSN)
+    protocol to Qutim. SVN version
+
+aur/qutim-stable 0.3.1-1
+    Multiprotocol instant messenger, based on Qt. Stable version
+
+aur/qutim-svn-archangel 90-5
+    Multiplatform instant messenger, with plugin system. Currently support
+    ICQ, Jabber, MRIM and other additional plugins
+
+aur/r-cran-startupmsg 0.7.1-1
+    Utilities for start-up messages
+
+aur/rabbitmq 2.8.7-1
+    Highly reliable and performant enterprise messaging implementation of
+    AMQP written in Erlang/OTP
+
+aur/raindrop-hg 1078-1
+    Explore new ways to use Open Web technologies to create useful,
+    compelling messaging experiences
+
+aur/raton 0.22-1
+    Translates mouse movements into MIDI controller messages
+
+aur/reddit-notifier 0.40-1
+    A desktop app that notifies you of new comments on your submissions,
+    new messages, new votes on your comments/submissions etc.
+
+aur/retroshare 0.5.4b-1
+    Serverless encrypted instant messenger with filesharing, chatgroups,
+    e-mail.
+
+aur/retroshare-deb 0.5.2a-1
+    Serverless encrypted instant messenger with filesharing, chatgroups,
+    e-mail.Based on the deb package (PKGBUILD is rgiht now an ugly hack
+    and not ready for every day useage is still missing deps)
+
+aur/retroshare-svn 5560-1
+    Serverless encrypted instant messenger with filesharing, chatgroups,
+    e-mail.
+
+aur/rmshit-git 20110122-1
+    Keep your home directory (or other dir) clean from unwanted mess
+
+aur/ruby-enterprise-stompserver 0.9.9-4
+    Stomp messaging server with file/dbm/memory/activerecord based FIFO
+    queues, queue monitoring, and basic authentication.
+
+aur/ruby-stomp 1.1-1
+    Ruby client for the Stomp messaging protocol
+
+aur/screen-message 0.18-1
+    Displays a short text fullscreen as large and as quickly as possible.
+
+aur/sdlmess 0.147-1
+    A port of the popular Multiple Emulator Super System using SDL.
+
+aur/sdlmess-svn 10006-1
+    A port of the popular Multiple Emulator Super System using SDL, SVN
+    version.
+
+aur/sdlmess-wout-gconf 0.146.u0-1
+    A port of the popular Multiple Emulator Super System using SDL.
+    WITHOUT GCONF
+
+aur/sdlume 0.147-1
+    Universal Machine Emulator combines the features of MAME and MESS into
+    a single multi-purpose emulator.
+
+aur/shhmsg 1.4.1-1
+    Library for displaying messages
+
+aur/sip-communicator-svn 4926-1
+    the Java VoIP and Instant Messaging client
+
+aur/sms-pl 2.1.0-1
+    Sms-pl is a apps for sending SMS messages to Polish mobile phone
+    operator (Era, Plus, Orange, Heyah)
+
+aur/smstools3 3.1.14-9
+    SMS gateway which can send and receive messages through GSM modems and
+    mobile phones
+
+aur/spread-daemon 4.1.0-3
+    Spread is an open source toolkit that provides a high performance
+    messaging service - Daemon and C API
+
+aur/spread-java 4.1.0-1
+    Spread is an open source toolkit that provides a high performance
+    messaging service - Java Bindings
+
+aur/squirrelmail-plugin-add_address 1.0.3-1
+    Plugin for squirrelmail. Helps users add addresses to their address
+    book from incoming and outgoing messages quickly and easily.
+
+aur/supercollider-ddwstatusbox 361-1
+    SuperCollider quark: A GUI text box that mirrors messages displayed in
+    the post window. Author: James Harkins.
+
+aur/sylfilter 0.7-1
+    A generic message filter library and command-line tools.
+
+aur/syslog-notify 0.1-2
+    Pop-up display for system log messages
+
+aur/t-prot 2.101-2
+    A filter which improves the readability of email messages and Usenet
+    posts by hiding some of their annoying parts
+
+aur/telepathy-indicator 0.1.2-1
+    Telepathy integration with the messaging menu
+
+aur/telepathy-kde-accounts-kcm-git 20111226-1
+    KCM Module for configuring Telepathy Instant Messaging Accounts. Now
+    includes protocol-specific UI's
+
+aur/thunderbird-indicator 106-1
+    This extension will integrate Thunderbird nicely with Unity's
+    Messaging Menu
+
+aur/tmda 1.1.12-2
+    Tagged Message Delivery Agent (for SPAM blocking)
+
+aur/tmsnc 0.3.3-1
+    A text based MSN Messenger client
+
+aur/torchat 0.9.9.553-2
+    A decentralized instant messenger built on top of the Tor Network
+
+aur/twitgin-git 20091015-1
+    Change Pidgin's status message. Status message is taken from a
+    Twitter's blog
+
+aur/veohproxy 1.51-1
+    Downloads videos from veoh Ninjavideo and Messagefromme
+
+aur/vimchat 0.142-2
+    Instant messaging plugin for VIM
+
+aur/webqq 1.1.30-1
+    Instant messaging software from Tencent Inc based on Adobe Air.
+
+aur/wee-buzzer 20120130:1.1-1
+    Weechat buzzer add-on that informs you when you receive a private
+    message or are mentioned on a channel.
+
+aur/weeplugins-git 20120829-1
+    WeeChat plugins: NickServ handling, trigger commands on messages,
+    command to send text/command to specific buffer
+
+aur/wmbiff 0.4.27-1
+    WMBiff is an WindowMaker dock applet that displays the number of read
+    and unread messages in up to five mailboxes.
+
+aur/xchat-indicator 0.3.10-2
+    Plugin to make XChat and XChat-GNOME use the messaging indicator
+
+aur/xchat-indicator-bzr 22-1
+    Plugin to make XChat use the messaging indicator (Canonical Ayatana
+    Project)
+
+aur/xchat-otr 0.3-1
+    Off-the-Record Messaging (OTR) plugin for the XChat IRC client
+
+aur/xcowsay 1.3-1
+    xcowsay displays a cute cow and message on your desktop. Inspired by
+    the original cowsay.
+
+aur/xtell 2.10.6-1
+    A simple network messaging client, much like netwrite
+
+aur/yachat-bin 3.2.2-3
+    Instant messenger from Yandex based on psi
+
+aur/yami 3.3.1-1
+    Yet Another Messaging Infrastructure
+
+aur/yammer 271901-1
+    Follow Yammer messages on your desktop.
+
+aur/yuuguu 5626-2
+    Yuuguu offers cross network instant messaging, instant screen sharing,
+    real time collaboration, web conferencing and remote support.
+
+aur/zarafa-libvmime 0.9.2-1
+    A C++ class library for working with MIME messages
+
+aur/zephyr 3.0.2-1
+    An enterprise-scale, distributed real-time messaging and notification
+    system
+
+aur/zeromq-dev 3.2.0-1
+    The development version of \u00d8MQ, a fast messaging library.
+
+aur/zeromq-git 20110604-1
+    Fast messaging system built on sockets.  AKA 0MQ, ZMQ.
+
+aur/zeromq-pgm 2.1.7-1
+    Fast messaging system built on sockets, C and C++ bindings.  aka 0MQ,
+    ZMQ. With OpenPGM support.
+
+aur/zeromq3-git 20111008-1
+    Fast messaging system built on sockets. AKA 0MQ, ZMQ.
+
+aur/znc-amsgfilter 1838-1
+    ZNC Module to filter amsgs (messages being send to all joined
+    channels) so that they won't appear in specified channels.
+
+aur/znc-colloquy 1838-1
+    ZNC module to push IRC messages and highlights to your iphone via
+    colloquy
+
+aur/znc-notify 1838-1
+    A module to show notices/messages when users detach/attach which
+    include their ip addresses.
+
+aur/zope-i18nmessageid 3.5.3-1
+    Message Identifiers for internationalization
+
+aur/zsi 2.1a1-2
+    a Python package that provides an implementation of SOAP messaging
+

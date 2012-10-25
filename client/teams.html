@@ -1,0 +1,135 @@
+<head>
+  <title>Soccer Teams</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+  {{> navbar}}
+  {{> main_container}}
+  {{> insert_team}}
+</body>
+
+
+<template name="navbar">
+    <div class="navbar navbar-fixed-top">
+        <img src="img/spinner.gif" style="position: absolute; left: 10px; top: 15px; display: none;" id="ajax-loader"/>
+        <div class="navbar-inner">
+            <div class="container">
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="/">Team Listing</a>
+                <div class="nav-collapse">
+                    <ul class="nav">
+                        <li class="{{at_home}}"><a href="/"><span><img src="img/go-home.png"></img></span><span>&nbsp;&nbsp;Home</span></a></li>
+                        <li class="{{at_about}}"><a href="about"><span><img src="img/help-about.png"></img></span><span>&nbsp;&nbsp;About</span></a></li>
+                        <li><div class="btn" style="margin-left: 1em; margin-right: 1em;">{{loginButtons align=right}}</div></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+                <!--<div class="nav-collapse" style="float: right;">
+                    <ul id="login_area" class="nav">
+                        <li><a href="#login">Login</a></li>
+                    </ul>
+                </div>--><!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+</template>
+
+<template name="main_container">
+    <div class="container">
+        {{#if at_home}}
+            {{> team_listing}}
+        {{/if}}
+        {{#if at_about}}
+            {{> about}}
+        {{/if}}
+    </div>
+</template>
+
+<template name="insert_team">
+    <div id="insert-team" class="modal hide fade">
+        <!-- dialog contents -->
+        <div class="modal-header">
+            <h3>Add a new team</h3>
+        </div>
+        <div class="modal-body">
+            <form class="form">
+                <label for="txt-team-name">Name</label>
+                <input type="text" size="30" style="width: 30em;" id="txt-team-name" required="required" placeholder="Team name"/>
+                <label for="txt-team-titles">Titles</label>
+                <input type="number" size="4" style="width: 4em;" id="txt-team-titles" value="0" required="required" />
+            </form>
+        </div>
+        <!-- dialog buttons -->
+        <div class="modal-footer">
+            <a href="#" id="insert-team-btn" class="btn btn-primary">OK</a>
+            <a href="#" id="cancel-team-btn" class="btn">Cancel</a>
+        </div>
+    </div>
+</template>
+
+<template name="team_listing">
+  <div class="row well" style="text-align: center; padding: 1em;"><h2>Team Listing</h2></div>
+  <div class="row" style="padding-top: 0.5em;">
+    <div class="span10">
+      {{#if teams}}
+        <div style="width: 100%; max-height: 360px; min-height: 360px; overflow: auto;"> 
+          <!--<table class="table table-condensed table-hover table-striped table-bordered">-->
+          <table class="table table-condensed table-hover table-bordered">
+            <thead><tr style="background: #eeeeee;"><th>Team</th><th>Titles</th><th style="width: 40px; text-align: center;">X</th></tr></thead>
+              <tbody>
+                {{#each teams}}
+                  {{> team}}
+                {{/each}}
+              </tbody>
+          </table>
+        </div>
+        <div class="well">
+          Number of teams: {{team_count}}   -   Total titles won: {{titles_won}} <!-- - Width: {{window.width}}-->
+        <div>
+      {{ else }}
+        {{greeting}}
+      {{/if}}
+    </div>
+    <div class="span2">
+      <input type="button" class="button btn-primary btn-large add-player" value="Add a team" />
+    </div>
+  </div>
+</template>
+
+<template name="team">
+  <tr class="{{maybe_selected}}">
+    <td>
+      {{#if is_editing}}
+        <input type="text" class="team-edit" name="txt-name" size="40" style="width: 40em;" value="{{name}}"/>
+      {{else}}
+        {{name}}
+      {{/if}}
+    </td>
+    <td style="text-align: right;">
+      {{#if is_editing}}
+        <input type="number" class="team-edit" name="txt-titles" size="4" style="width: 4em;" value="{{titles}}"/>
+      {{else}}
+        {{titles}}
+      {{/if}}
+    </td>
+    <td style="width: 40px;">
+      <img class="delete-team" src="img/destroy.png" title="Delete {{name}}"/>
+    </td>
+  </tr>
+</template>
+
+<template name="about">
+    <div class="hero-unit">
+        <h2 style="text-align: center;">About Soccer Teams</h2>
+    </div>
+    <div class="row">
+        <p>Small proof of concept using Meteor.js</p>
+        <p>In order to edit teams, double click on them</p>
+    </div>
+</template>
